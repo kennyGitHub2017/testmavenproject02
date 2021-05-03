@@ -9,7 +9,7 @@ import org.junit.Test;
  */
 public class AppTest 
 {
-    /**
+    /** test
      * Rigorous Test :-)
      */
     @Test
